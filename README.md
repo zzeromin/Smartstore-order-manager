@@ -21,7 +21,7 @@ Streamlit으로 제작된 네이버 스마트스토어 주문 관리 대시보�
 ### 1. 프로젝트 복제
 
 ```bash
-git clone [https://github.com/zzeromin/Smartstore-order-manager.git](https://github.com/zzeromin/Smartstore-order-manager.git)
+git clone https://github.com/zzeromin/Smartstore-order-manager.git
 cd Smartstore-order-manager
 ```
 
